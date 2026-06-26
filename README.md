@@ -159,6 +159,6 @@ The cleaned dataset now contains:
 
 ## Author
 
-S. Nithish
+NITHISH KUMAR S
 
 Internship Project
